@@ -7,5 +7,6 @@
 *     node Linking_js_to_html.js
 <br>
 
+*     cd ..
 *     cd Lab2
 *     node Functions.js
