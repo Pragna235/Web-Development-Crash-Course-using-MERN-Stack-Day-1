@@ -10,3 +10,8 @@
 *     cd ..
 *     cd Lab2
 *     node Functions.js
+<br>
+
+*     cd ..
+*     cd Lab3
+*     node Arrays_and_Objects.js
